@@ -30,7 +30,7 @@ Una aplicación Android moderna desarrollada con Jetpack Compose que permite a l
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/AppParcialJuanLopez.git
+https://github.com/Juanse1510/AppParcialJuanLopez.git
 ```
 
 2. Abre el proyecto en Android Studio
