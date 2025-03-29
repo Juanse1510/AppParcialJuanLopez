@@ -89,6 +89,16 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 Juan López
 
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/9b68f952-dd9b-4ae9-97c3-3b9eb1ad2c92)
+
+![image](https://github.com/user-attachments/assets/32044c6b-10e0-4a39-8562-4489def8dc16)
+
+![image](https://github.com/user-attachments/assets/6278be0f-130e-42f2-8b57-de6a10337c62)
+
+![image](https://github.com/user-attachments/assets/d66b90c9-5225-4984-b458-5e05afc816fa)
+
 ## Agradecimientos
 
 - Material Design 3 por los componentes de UI
